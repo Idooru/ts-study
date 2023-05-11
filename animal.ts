@@ -1,3 +1,7 @@
+/**
+ * #추상화 클래스, #상속, #type 키워드, #reduce, # new () => Type 타입
+ */
+
 abstract class Animal {
   abstract move(): void;
   abstract eat(): void;
